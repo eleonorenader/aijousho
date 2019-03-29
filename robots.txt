@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahauhaiwei.pdxjs.com/sitemap.xml
